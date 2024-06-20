@@ -1,0 +1,19 @@
+p {
+color: red;
+
+    
+}
+public {
+    color:rgb(185, 185, 211);
+}
+div.margin{
+    border: 1px solid black;
+    background-color: black;
+    margin:30px
+
+}
+div.padding {
+    border: 1px solid black;
+    background-color: red;
+    padding: 30px;
+}
